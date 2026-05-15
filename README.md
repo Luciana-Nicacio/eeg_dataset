@@ -5,4 +5,4 @@ Brain electrical activity was recorded using 22 electrodes positioned according 
 
 For each participant, the dataset includes EEG signals from the calibration session and the 10 attention trials, as well as the delay between the onset of EEG acquisition and the onset of auditory stimulation for each trial. Additionally, the dataset contains the questionnaire item presented before the experiment and the participant’s corresponding response.
 
-Python code for loading the data and presenting the main information of the dataset is also provided (loading_dataset.py)
+The EEG signals and the main information regarding the dataset were stored in a dictionary format. Python code for loading the data and presenting the main information of the dataset is also provided (loading_dataset.py)
